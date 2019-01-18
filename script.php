@@ -1,0 +1,9 @@
+<script src="views/app/js/login.js"></script>
+<script src="views/app/js/envioD.js"></script>
+<script src="views/app/js/reg.js"></script>
+<script src="views/app/js/jquery.min.js"></script>
+<script src="views/app/js/lostpass.js"></script>
+<script src="views/app/js/generales.js"></script>
+<script src="views/app/js/direccion0_1.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAE1TudJUZL3K0hzMKcdww5xmylhL8Ac1Y&libraries=places&callback=initMap"
+        async defer></script>
